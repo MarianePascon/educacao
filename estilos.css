@@ -71,5 +71,39 @@
 }
 
 .video{
-   
+    padding-left:312px;
+    padding-right: 312px;
+}
+
+.pt3{
+    background: #F9F9FF;
+}
+.pt3 h2{
+    font-size: 56px;
+    padding-left: 350px;
+}
+
+.pt3 img{
+    padding-left: 350px;
+}
+
+.pap{
+    display: flex;
+    justify-content: space-around;
+}
+
+.pap div{
+    width: 345px;
+    height: 176px;
+    padding: 5px;
+    margin: auto;
+    padding: auto;
+}
+
+.pap div h3{
+    font-size: 24px;
+}
+
+.pap div p{
+    font-size: 16px;
 }
